@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SPJN
-- 👀 I’m interested in minecraft, Fikez and coding
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in minecraft and coding
+- 🌱 I’m currently learning Python and java
 - 💞️ I’m looking to collaborate on currently nothing
-- 📫 You can reach me with discord: σπιν#6223
+- 📫 You can reach me with discord: SPJN#6223
 - 🇳🇱 I'm Dutch
 
 <!---
